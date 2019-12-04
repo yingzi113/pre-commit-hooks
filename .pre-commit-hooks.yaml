@@ -1,0 +1,11 @@
+-   id: check-case-conflict
+    name: Check for case conflicts
+    description: Check for files that would conflict in case-insensitive filesystems
+    entry: check-case-conflict
+    language: python
+-   id: check-commit-message
+    name: Check commit message
+    description: Check commit message.
+    entry: check-commit-message
+    language: python
+    types: [python]
